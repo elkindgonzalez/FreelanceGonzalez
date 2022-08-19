@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.item{
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        border: 3px solid black;
+
+    }
+
+.cajaA{
+    background: linear-gradient(to right, #45b39d, yellow);
+}
+
+.cajaB{
+    background: linear-gradient(to right, #11306e, #96a0af);
+}
+
+.cajaC{
+    background: linear-gradient(to right, #b34587, rgb(30, 175, 76));
+}
+
+.cajaD{
+    background: linear-gradient(to right, #17816c, rgb(179, 230, 235));
+}
